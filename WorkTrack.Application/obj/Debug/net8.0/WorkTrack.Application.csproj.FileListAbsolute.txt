@@ -1,0 +1,15 @@
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\bin\Debug\net8.0\WorkTrack.Application.deps.json
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\bin\Debug\net8.0\WorkTrack.Application.dll
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\bin\Debug\net8.0\WorkTrack.Application.pdb
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\bin\Debug\net8.0\WorkTrack.Domain.dll
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\bin\Debug\net8.0\WorkTrack.Domain.pdb
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\WorkTrack.Application.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\WorkTrack.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\WorkTrack.Application.AssemblyInfoInputs.cache
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\WorkTrack.Application.AssemblyInfo.cs
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\WorkTrack.Application.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\WorkTrac.EDD856BB.Up2Date
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\WorkTrack.Application.dll
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\refint\WorkTrack.Application.dll
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\WorkTrack.Application.pdb
+C:\Users\merve\source\repos\WorkTrack.Api\WorkTrack.Application\obj\Debug\net8.0\ref\WorkTrack.Application.dll
